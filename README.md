@@ -9,7 +9,7 @@ Magist provided limited data insight to their products palette, customer behavio
 - Database provided by school
 - MySQL
 - Tableau
-- 
+
 ## Key Learnings
 Being the first project conducted on Tableau, learnings in the software were big. Multiple plots were generated and deepened the understanding of how the program works.
 Also the security in writing SQL enhanced, since the given database required a new level of navigating through its layers in order to get answers out of it.
